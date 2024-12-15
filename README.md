@@ -1,1 +1,1 @@
-# bpi-dip
+# BPI Data Science Internship Program
