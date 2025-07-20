@@ -1,4 +1,4 @@
-# Feature Engineering Framework for Private Wealth Client Intelligence
+# Feature Engineering Framework for BPI Private Wealth Client Intelligence
 
 This project aims to design and implement a robust feature engineering framework to extract actionable insights from transactional and behavioral data, supporting the strategic goals of the bank's Private Wealth division. By systematically deriving high-quality features from client activity patterns, the initiative seeks to:
 
